@@ -41,15 +41,15 @@ Updating the mod? Update the Blender add-on too.
 Switching avatars or maps stops and saves it for you.
 Recordings go to `BONELAB\UserData\BoneCap\`.
 
-## Does it work on Quest?
-
-YES, But I didn't make it with quest in mind. Recordings will just be in your melon loader folder on sidequest.
-Works tho, i've used it a few times.
-
 ### Settings
 
 - **Capture Framerate**: pick anywhere from 12 to 120 FPS. 60 is default. Higher is smoother but bigger files. Stop recording before changing it.
 - **Tracking Origin PlayerMarker**: leave it on. Keeps your recordings lined up with the map.
+
+## Does it work on Quest?
+
+YES, But I didn't make it with quest in mind. Recordings will just be in your melon loader folder on sidequest.
+Works tho, i've used it a few times.
 
 ## Putting it in Blender
 
