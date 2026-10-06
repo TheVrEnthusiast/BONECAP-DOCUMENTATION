@@ -58,7 +58,7 @@ Works tho, i've used it a few times.
 3. Press N, go to the BoneCap tab
 4. Hit **Apply BoneCap To Avatar** and pick your recording
 
-Use the same model you uploaded to BONELAB or some bones won't move.
+Use the same model you used in BONELAB or it might not work.
 
 No model? Import with nothing selected and it makes a skeleton for you.
 
