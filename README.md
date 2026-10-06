@@ -80,7 +80,7 @@ Export your animated avatar as an FBX and use it in Unity for your mods.
 Join the [Discord](https://discord.gg/Wx4y5CZU6n) if you want to suggest support fixxes for another mod.
 
 ## Problems
-
+///these are bugs i've found\\\
 **Body is offset / big bone sticking out**
 Delete the root bone (the one big bone on the rig). Edit Mode, click it, X, Delete.
 
