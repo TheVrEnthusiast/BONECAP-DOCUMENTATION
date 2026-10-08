@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.6.9-red" alt="Version 1.6.9">
   <img src="https://img.shields.io/badge/MelonLoader-0.7-blue" alt="MelonLoader 0.7">
-  <img src="https://img.shields.io/badge/Blender-4.2%2B-orange" alt="Blender 4.2+">
+  <img src="https://img.shields.io/badge/Blender-5.2.2+%2B-orange" alt="Blender 5.2.2+">
 </p>
 
 ## What is it
@@ -20,7 +20,7 @@ Use it for animations, renders, videos, or your own mods.
 
 - [MelonLoader](https://melonwiki.xyz/) 0.7+
 - [BoneLib](https://thunderstore.io/c/bonelab/p/gnonme/BoneLib/)
-- [Blender](https://www.blender.org/download/) 4.2+
+- [Blender](https://www.blender.org/download/) 5.2.2+
 
 ## Install
 
