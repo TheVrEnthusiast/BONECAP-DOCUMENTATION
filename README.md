@@ -18,7 +18,6 @@ Use it for animations, renders, videos, or your own mods.
 
 ## What you need
 
-- BONELAB on PC
 - [MelonLoader](https://melonwiki.xyz/) 0.7+
 - [BoneLib](https://thunderstore.io/c/bonelab/p/gnonme/BoneLib/)
 - [Blender](https://www.blender.org/download/) 4.2+
