@@ -3,7 +3,7 @@
 <p align="center">Mocap for BONELAB. Record yourself in game, put it in Blender.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.6.8-red" alt="Version 1.6.9">
+  <img src="https://img.shields.io/badge/version-1.6.9-red" alt="Version 1.6.9">
   <img src="https://img.shields.io/badge/MelonLoader-0.7-blue" alt="MelonLoader 0.7">
   <img src="https://img.shields.io/badge/Blender-4.2%2B-orange" alt="Blender 4.2+">
 </p>
