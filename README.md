@@ -57,9 +57,10 @@ Recordings Go to `sdcard\MelonLoader\com.StressLevelZero.BONELAB\UserData\BoneCa
 ### Settings
 ![SETTINGSMENU](SETTINGS.jpg)
 
-- **Capture Framerate**: pick anywhere from 12 to 120 FPS. 60 is default. Higher is smoother but bigger files. Stop recording before changing it.
 - **Tracking Origin PlayerMarker**: leave it on. Keeps your recordings lined up with the map.
 - **SlowMo Bypass**: turn it on if you want slowmo to play at full speed in Blender. Leave it off to record slowmo as slowmo.
+- **Capture Framerate**: pick anywhere from 12 to 120 FPS. 60 is default. Higher is smoother but bigger files. Stop recording before changing it.
+
 ![FPSMENU](FPS.jpg)
 
 ## Putting it in Blender
