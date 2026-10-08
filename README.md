@@ -3,7 +3,7 @@
 <p align="center">Mocap for BONELAB. Record yourself in game, put it in Blender.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.6.8-red" alt="Version 1.6.8">
+  <img src="https://img.shields.io/badge/version-1.6.8-red" alt="Version 1.6.9">
   <img src="https://img.shields.io/badge/MelonLoader-0.7-blue" alt="MelonLoader 0.7">
   <img src="https://img.shields.io/badge/Blender-4.2%2B-orange" alt="Blender 4.2+">
 </p>
@@ -31,7 +31,7 @@ Use it for animations, renders, videos, or your own mods.
 Updating the mod? Update the Blender add-on too.
 
 ## How to record
-
+![MAIN](MAIN.jpg)
 1. Load into a map
 2. BoneMenu > BoneCap
 3. Hit **Capture Motion**
@@ -41,15 +41,28 @@ Updating the mod? Update the Blender add-on too.
 Switching avatars or maps stops and saves it for you.
 Recordings go to `BONELAB\UserData\BoneCap\`.
 
-### Settings
+Switching avatars or maps stops and saves it for you.
+Recordings go to `BONELAB\UserData\BoneCap\`.
 
-- **Capture Framerate**: pick anywhere from 12 to 120 FPS. 60 is default. Higher is smoother but bigger files. Stop recording before changing it.
-- **Tracking Origin PlayerMarker**: leave it on. Keeps your recordings lined up with the map.
+### Capture Pose?
+![POSE](POSE.png)
+Click it and wait till the 3s timer is up, it'll save to
+`BONELAB\UserData\BoneCap\Poses`-pc
+`sdcard\MelonLoader\com.StressLevelZero.BONELAB\UserData\BoneCap\Poses` -Quest
 
 ## Does it work on Quest?
 
 YES, But I didn't make it with quest in mind. Recordings will just be in your melon loader folder on sidequest.
 Works tho, i've used it a few times.
+Recordings Go to `sdcard\MelonLoader\com.StressLevelZero.BONELAB\UserData\BoneCap`.
+
+### Settings
+![SETTINGSMENU](SETTINGS.jpg)
+
+- **Capture Framerate**: pick anywhere from 12 to 120 FPS. 60 is default. Higher is smoother but bigger files. Stop recording before changing it.
+- **Tracking Origin PlayerMarker**: leave it on. Keeps your recordings lined up with the map.
+- **SlowMo Bypass**: turn it on if you want slowmo to play at full speed in Blender. Leave it off to record slowmo as slowmo.
+![FPSMENU](FPS.jpg)
 
 ## Putting it in Blender
 
@@ -58,7 +71,7 @@ Works tho, i've used it a few times.
 3. Press N, go to the BoneCap tab
 4. Hit **Apply BoneCap To Avatar** and pick your recording
 
-Use the same model you used in BONELAB or it might not work.
+Use the same model you uploaded to BONELAB or some bones won't move.
 
 No model? Import with nothing selected and it makes a skeleton for you.
 
@@ -80,7 +93,7 @@ Export your animated avatar as an FBX and use it in Unity for your mods.
 Join the [Discord](https://discord.gg/Wx4y5CZU6n) if you want to suggest support fixxes for another mod.
 
 ## Problems
-///these are bugs i've found\\\
+
 **Body is offset / big bone sticking out**
 Delete the root bone (the one big bone on the rig). Edit Mode, click it, X, Delete.
 
