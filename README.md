@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.6.9-red" alt="Version 1.6.9">
   <img src="https://img.shields.io/badge/MelonLoader-0.7-blue" alt="MelonLoader 0.7">
-  <img src="https://img.shields.io/badge/Blender-5.2.2%2B-orange" alt="Blender 5.2.2+">
+  <img src="https://img.shields.io/badge/Blender-5.2.2%2B-orange" alt="Blender 5.2.2">
 </p>
 
 ## What is it
