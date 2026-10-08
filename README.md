@@ -42,9 +42,6 @@ Updating the mod? Update the Blender add-on too.
 Switching avatars or maps stops and saves it for you.
 Recordings go to `BONELAB\UserData\BoneCap\`.
 
-Switching avatars or maps stops and saves it for you.
-Recordings go to `BONELAB\UserData\BoneCap\`.
-
 ### Capture Pose?
 ![POSE](POSE.png)
 
