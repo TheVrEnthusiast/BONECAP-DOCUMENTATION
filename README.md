@@ -32,6 +32,7 @@ Updating the mod? Update the Blender add-on too.
 
 ## How to record
 ![MAIN](MAIN.jpg)
+
 1. Load into a map
 2. BoneMenu > BoneCap
 3. Hit **Capture Motion**
@@ -46,6 +47,7 @@ Recordings go to `BONELAB\UserData\BoneCap\`.
 
 ### Capture Pose?
 ![POSE](POSE.png)
+
 Click it and wait till the 3s timer is up, it'll save to
 `BONELAB\UserData\BoneCap\Poses`-pc
 `sdcard\MelonLoader\com.StressLevelZero.BONELAB\UserData\BoneCap\Poses` -Quest
